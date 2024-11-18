@@ -1,11 +1,10 @@
-## Overview
-This repository contains debugging exercises. 
-The goal is to identify, fix, and understand common coding errors. These exercises focus on improving problem-solving and debugging skills.
+Debugging Exercises for Python Programming
+Overview
+This repository contains a set of debugging exercises focusing on common Python errors. The exercises will help you develop your debugging skills by identifying and resolving issues like syntax errors, AttributeError, and TypeError.
 
-
-##Contents
+Contents
 exercise1.py: Debugging basic syntax errors.
-exercise2.py: Resolving an AttributeError.
-exercise3.py: Fixing a TypeError in numerical operations.
-exercise4.py: Debugging a TypeError in function arguments.
-exercise5.py: Resolving another case of AttributeError.
+exercise2.py: Resolving an AttributeError related to missing or incorrect attributes in an object.
+exercise3.py: Fixing a TypeError caused by unsupported operations between incompatible types.
+exercise4.py: Debugging another case of TypeError, focusing on function arguments and their expected types.
+exercise5.py: Addressing an AttributeError by ensuring proper initialization or attribute existence.
